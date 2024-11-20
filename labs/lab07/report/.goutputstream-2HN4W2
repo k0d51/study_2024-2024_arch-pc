@@ -84,55 +84,62 @@ header-includes:
 
 # Выполнение лабораторной работы
 
-1. Создал каталог и новый файл. (рис. [-@fig:001]).
+Описываются проведённые действия, в качестве иллюстрации даётся ссылка на иллюстрацию (рис. [-@fig:001]).
 
-![Создание](image/Screenshot from 2024-11-19 10-32-04.png){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
 
-2. Ввел текст программы из листинга 7.1
 
-![Ввод](image/Screenshot from 2024-11-19 10-33-57.png){#fig:002 width=70%}
 
-Создал исполняемый файл и запустил:
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
 
-![Создание](image/Screenshot from 2024-11-19 10-39-22.png){#fig:003 width=70%}
 
-Изменил текст программы в соответствии с листингом 7.2
 
-![Изменение](image/Screenshot from 2024-11-19 10-40-32.png){#fig:004 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
 
-Создал исполняемый файл и проверил работу файла:
 
-![Создание](image/Screenshot from 2024-11-19 10-40-46.png){#fig:005 width=70%}
 
-3. Создал файл lab7-2.asm и ввел текст из листинга 7.3
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
 
-![Создание](image/Screenshot from 2024-11-19 10-43-10.png){#fig:006 width=70%}
 
-Создал исполняемый файл и запустил.
 
-![Создание](image/Screenshot from 2024-11-19 10-51-58.png){#fig:007 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
 
-4. Создал файл листинга и открыл его:
 
-![Создание](image/Screenshot from 2024-11-19 10-53-28.png){#fig:008 width=70%}
 
-Удалил один операнд и проверил новый файл листинга.
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
 
-![Удаление](image/Screenshot from 2024-11-19 12-21-55.png){#fig:009 width=70%}
 
-# Задание для самостоятельной работы
 
-1. Текст программы из задания 1:
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
 
-![Текст](image/Screenshot from 2024-11-19 12-24-13.png){#fig:010 width=70%}
 
-Работа программы:
 
-![Запуск](image/Screenshot from 2024-11-19 12-25-34.png){#fig:011 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
 
-2. Текст програаммы из задания 2. Работа программы:
 
-![Запуск](image/Screenshot from 2024-11-19 12-28-07.png){#fig:012 width=70%}
+
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+
+
+
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+
+
+
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+
+
+
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
 
 # Выводы
 
